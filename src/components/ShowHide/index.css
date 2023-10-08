@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.p {
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.h {
+  color: white;
+  font-size: 20px;
+  font-family: Roboto;
+}
+.bt {
+  display: flex;
+  padding: 10px;
+  justify-content: space-evenly;
+}
+.c {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.b {
+  background-color: aliceblue;
+  font-size: 15px;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  color: purple;
+}
+.jo {
+  background-color: aliceblue;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
+.pp {
+  color: black;
+  font-size: 10px;
+}
